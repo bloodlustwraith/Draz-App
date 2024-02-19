@@ -1,1 +1,4 @@
 # Draz-App
+
+The purpose of this project is to develop a clone of the Daraz app, an online shopping store, using various Data Structures and Algorithms (DSA) concepts in the C++ programming language. The project incorporates key features of the original app, including an admin portal and a customer portal. The admin portal allows administrators to manage products, customers, and complaints, while the customer portal provides functionalities like adding products to the cart, managing returns, viewing buying history, and submitting complaints. The project leverages DSA concepts such as Binary Search Tree (BST), Queue, Stack, Recursion, as well as fundamental programming concepts like file handling and graphics.
+To use SFML files please vist this link https://www.youtube.com/watch?v=YfMQyOw1zik for guide
